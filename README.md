@@ -1,5 +1,5 @@
 <a href="https://github.com/adityaferdians">
-    <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%234AF736&size=35&center=true&vCenter=true&width=600%&lines=My+Name+is+Anisya;Web+Developer;Open+Source+Contributor;Tech+Content+Writer;Game+Developer+Unity;Data+Structures+and+Algorithm;Competitive+Programming;Tech+Geek" />
+    <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%234AF736&size=35&center=true&vCenter=true&width=600%&lines=Welcome;Web+Developer;Open+Source+Contributor;Tech+Content+Writer;Game+Developer+Unity;Data+Structures+and+Algorithm;Competitive+Programming;Tech+Geek" />
     </a>
     <div align=center>
     <a href="https://github.com/adityaferdians">
