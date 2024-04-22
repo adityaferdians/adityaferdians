@@ -5,7 +5,7 @@
     <a href="https://github.com/adityaferdians">
     <img height=50 width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
     </a>
-    <h1 align="center">Hi 👋, I'm Anisya</h1>
+    <h1 align="center">Hi 👋</h1>
     
 <b>Glad to see you here!</b>
 
